@@ -19,8 +19,11 @@ GitHub: charlieroth
 ### Purdue University
 
 Location: West Lafayette, IN, USA
+
 Degree: Bachelor of Science, Computer Science
+
 Start: 2015
+
 Stop: 2019
 
 **Details**
@@ -32,7 +35,9 @@ Stop: 2019
 ### Tacit Technologies - Founder, Engineer, Researcher
 
 Start: January 2023
+
 Stop: 
+
 Location: Detroit, Michigan, USA - Remote
 
 #### Details
@@ -42,7 +47,9 @@ Location: Detroit, Michigan, USA - Remote
 ### CarbonCloud AB - Software Engineer
 
 Start: December 2023
+
 Stop: 
+
 Location: Gothenburg, Sweden - On-site
 
 #### Details
@@ -52,7 +59,9 @@ Location: Gothenburg, Sweden - On-site
 ### Bzzt AB - Software Engineer
 
 Start: June 2023
+
 Stop: November 2023
+
 Location: Gothenburg, Sweden - On-site
 
 #### Details
@@ -63,7 +72,9 @@ Location: Gothenburg, Sweden - On-site
 ### Albert AB - Software Engineer
 
 Start: December 2020
+
 Stop: June 2023
+
 Location: Gothenburg, Sweden - On-site / Remote
 
 #### Details
@@ -77,7 +88,9 @@ Location: Gothenburg, Sweden - On-site / Remote
 ### Appirio - Associate Consultant (Software Engineer)
 
 Start: June 2019
+
 Stop: November 2020
+
 Location: Indianapolis, IN, USA - On-site / Remote
 
 #### Details

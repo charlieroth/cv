@@ -58,8 +58,11 @@ GitHub: %s
 ### %s
 
 Location: %s
+
 Degree: %s
+
 Start: %d
+
 Stop: %d
 
 **Details**
@@ -105,7 +108,9 @@ func writeEmploymentEntry(s *strings.Builder, entry cv.EmploymentEntry) error {
 	entryString := fmt.Sprintf(`### %s - %s
 
 Start: %s
+
 Stop: %s
+
 Location: %s
 
 #### Details
