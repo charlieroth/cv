@@ -9,7 +9,9 @@
 **Contact Information**
 
 Email: charlieroth4@icloud.com
+
 Twitter: charleiroth_
+
 GitHub: charlieroth
 
 ## Education

@@ -41,7 +41,9 @@ func Generate(cv *cv.CV) (string, error) {
 	contact := fmt.Sprintf(`**Contact Information**
 
 Email: %s
+
 Twitter: %s
+
 GitHub: %s
 
 `, cv.Contact.Email, cv.Contact.Twitter, cv.Contact.GitHub)
