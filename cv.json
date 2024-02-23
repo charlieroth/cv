@@ -1,0 +1,80 @@
+{
+  "name": "Charles Roth III",
+  "location": "Gothenburg, Sweden",
+  "mission": "Building and researching the free and open distribution of information",
+  "summary": "Senior Full Stack Software Engineer • Researcher • Autodidact",
+  "contact": {
+    "email": "charlieroth4@icloud.com",
+    "twitter": "charleiroth_",
+    "github": "charlieroth"
+  },
+  "education": {
+    "entity": "Purdue University",
+    "location": "West Lafayette, IN, USA",
+    "credential": "Bachelor of Science, Computer Science",
+    "start": 2015,
+    "stop": 2019,
+    "details": [
+      "Participated in multiple hackathons through Major League Hacking"
+    ]
+  },
+  "employment": [
+    {
+      "title": "Founder, Engineer, Researcher",
+      "entity": "Tacit Technologies",
+      "start": "January 2023",
+      "stop": null,
+      "location": "Detroit, Michigan, USA - Remote",
+      "details": [
+        "Personal company for consulting and R&D"
+      ]
+    },
+    {
+      "title": "Software Engineer",
+      "entity": "CarbonCloud AB",
+      "start": "December 2023",
+      "stop": null,
+      "location": "Gothenburg, Sweden - On-site",
+      "details": [
+        "Building data-driven user interfaces with Elm & React"
+      ]
+    },
+    {
+      "title": "Software Engineer",
+      "entity": "Bzzt AB",
+      "start": "June 2023",
+      "stop": "November 2023",
+      "location": "Gothenburg, Sweden - On-site",
+      "details": [
+        "Developed an urban logistics platform to power next generation of last-mile delivery vehicles",
+        "Used Elixir, Phoenix, TypeScript and React for applications serving external customers and company operations team"
+      ]
+    },
+    {
+      "title": "Software Engineer",
+      "entity": "Albert AB",
+      "start": "December 2020",
+      "stop": "June 2023",
+      "location": "Gothenburg, Sweden - On-site / Remote",
+      "details": [
+        "Built mobile, web and server systems to power educational platform for children ages 3-16",
+        "Mobile applications ranging in the following topics - Math, English, ABCs, Programming, Biology, Physics",
+        "Mobile applications built with React Native and TypeScript",
+        "Web applications built with Next.js, React and TypeScript",
+        "Backend application written in Node.js and TypeScript"
+      ]
+    },
+    {
+      "title": "Associate Consultant (Software Engineer)",
+      "entity": "Appirio",
+      "start": "June 2019",
+      "stop": "November 2020",
+      "location": "Indianapolis, IN, USA - On-site / Remote",
+      "details": [
+        "Consulted the development of cloud systems utilizing Salesforce and Heroku",
+        "Fullstack Engineer building custom web application with React, Node.js and TypeScript",
+        "Software systems hosted on Heroku, integrating customer's Salesforce data"
+      ]
+    }
+  ]
+}
