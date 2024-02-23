@@ -6,7 +6,7 @@
 
 **Summary**: Senior Full Stack Software Engineer • Researcher • Autodidact
 
-**Contact Information**
+### Contact Information
 
 Email: charlieroth4@icloud.com
 

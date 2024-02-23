@@ -38,7 +38,7 @@ func Generate(cv *cv.CV) (string, error) {
 		return "", err
 	}
 
-	contact := fmt.Sprintf(`**Contact Information**
+	contact := fmt.Sprintf(`### Contact Information
 
 Email: %s
 
